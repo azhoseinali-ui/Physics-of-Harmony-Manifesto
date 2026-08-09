@@ -8,6 +8,19 @@
 
 ---
 
+## خلاصه‌های چندزبانه | Multilingual Summaries
+
+| Language | Link |
+|----------|------|
+| English | [English Summary](Summaries/English_Summary.md) |
+| العربية (Arabic) | [الملخص بالعربية](Summaries/Arabic_Summary.md) |
+| Français | [Résumé en français](Summaries/French_Summary.md) |
+| Español | [Resumen en español](Summaries/Spanish_Summary.md) |
+| 中文 (Chinese) | [中文摘要](Summaries/Chinese_Summary.md) |
+| Deutsch | [Deutsche Zusammenfassung](Summaries/German_Summary.md) |
+
+---
+
 ## ۱. جهان، یک کامپیوتر عظیم؛ فیزیک، زبان برنامه‌نویسی آن
 
 فیزیک هارمونی با قطعیت اثبات کرده است که جهان، چیزی جز یک ماشین محاسباتی بی‌نهایت دقیق نیست. تمام پدیده‌ها، از کوچک‌ترین نوسان خلأ تا بزرگ‌ترین ساختارهای کیهانی، ماژول‌های محاسباتی هستند که بر اساس یک الگوریتم واحد و هماهنگ (هارمونی) در حال اجرا می‌باشند.
